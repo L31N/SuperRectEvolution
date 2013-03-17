@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="app.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="896" topLine="17" />
+	</File>
+	<File name="app.h" open="1" top="0" tabpos="1">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="frame.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="frame.h" open="0" top="0" tabpos="2">
+		<Cursor position="186" topLine="0" />
+	</File>
+	<File name="hm_window.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="3761" topLine="71" />
+	</File>
+	<File name="hm_window.h" open="1" top="0" tabpos="5">
+		<Cursor position="309" topLine="8" />
+	</File>
+	<File name="setup_dialog.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="4944" topLine="96" />
+	</File>
+	<File name="setup_dialog.h" open="1" top="0" tabpos="3">
+		<Cursor position="561" topLine="9" />
+	</File>
+</CodeBlocks_layout_file>
